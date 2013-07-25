@@ -6,7 +6,7 @@
 	"homepage": "https://github.com/Jalle19/SaneMail",
 	"license": "MIT",
 	"require": {
-		"zendframework/zend-mail": "2.2.*",
+		"zendframework/zend-mail": "2.2.*"
 	},
 	"autoload": {
 		"psr-0": {
