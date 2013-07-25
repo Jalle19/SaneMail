@@ -1,0 +1,16 @@
+{
+	"name": "jalle19/sanemail",
+	"type": "library",
+	"description": "Zend Mail wrapper for those who want to preserve their sanity",
+	"keywords": ["zend", "zendmail", "sanemail", "wrapper"],
+	"homepage": "https://github.com/Jalle19/SaneMail",
+	"license": "MIT",
+	"require": {
+		"zendframework/zend-mail": "2.2.*",
+	},
+	"autoload": {
+		"psr-0": {
+			"SaneMail": "lib/"
+		}
+	}
+}
